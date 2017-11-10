@@ -1,13 +1,14 @@
 ﻿<Properties StartupConfiguration="{DC7678FA-E57B-4D2C-A74C-241E4E321D8E}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Adapter/Tiger.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Adapter/HomeCatAdapter.cs">
     <Files>
-      <File FileName="Adapter/Program.cs" Line="8" Column="12" />
+      <File FileName="Adapter/Program.cs" Line="2" Column="24" />
       <File FileName="Adapter/IHomeCat.cs" Line="2" Column="27" />
       <File FileName="Adapter/PedigreedCat.cs" Line="2" Column="27" />
       <File FileName="Adapter/YardCat.cs" Line="11" Column="10" />
       <File FileName="Adapter/CatInfoPrinter.cs" Line="5" Column="2" />
       <File FileName="Adapter/IWildCat.cs" Line="9" Column="3" />
-      <File FileName="Adapter/Tiger.cs" Line="2" Column="20" />
+      <File FileName="Adapter/Tiger.cs" Line="18" Column="9" />
+      <File FileName="Adapter/HomeCatAdapter.cs" Line="2" Column="22" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

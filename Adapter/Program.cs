@@ -1,5 +1,5 @@
 ﻿using System;
-//using Adapter.Adapters;
+using Adapter.Adapters;
 using Adapter.HomeCats;
 using Adapter.WildCats;
 
@@ -16,6 +16,10 @@ namespace Adapter
 			IHomeCat wagner = new PedigreedCat();
 			wagner.Name = "Вагнер";
 			CatInfoPrinter.PrintCatInfo(wagner);
+
+			IWildCat tiger = new Tiger();
+			HomeCatAdapter adapter = new HomeCatAdapter(tiger);
+			CatInfoPrinter.PrintCatInfo(adapter);
 
 			Console.ReadLine();
         }
