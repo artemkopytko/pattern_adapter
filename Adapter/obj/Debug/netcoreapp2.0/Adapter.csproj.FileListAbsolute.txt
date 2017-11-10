@@ -1,0 +1,11 @@
+/Users/artemkopytko/University/Adapter/Adapter/bin/Debug/netcoreapp2.0/Adapter.deps.json
+/Users/artemkopytko/University/Adapter/Adapter/bin/Debug/netcoreapp2.0/Adapter.runtimeconfig.json
+/Users/artemkopytko/University/Adapter/Adapter/bin/Debug/netcoreapp2.0/Adapter.runtimeconfig.dev.json
+/Users/artemkopytko/University/Adapter/Adapter/bin/Debug/netcoreapp2.0/Adapter.dll
+/Users/artemkopytko/University/Adapter/Adapter/bin/Debug/netcoreapp2.0/Adapter.pdb
+/Users/artemkopytko/University/Adapter/Adapter/obj/Debug/netcoreapp2.0/Adapter.csprojResolveAssemblyReference.cache
+/Users/artemkopytko/University/Adapter/Adapter/obj/Debug/netcoreapp2.0/Adapter.csproj.CoreCompileInputs.cache
+/Users/artemkopytko/University/Adapter/Adapter/obj/Debug/netcoreapp2.0/Adapter.AssemblyInfoInputs.cache
+/Users/artemkopytko/University/Adapter/Adapter/obj/Debug/netcoreapp2.0/Adapter.AssemblyInfo.cs
+/Users/artemkopytko/University/Adapter/Adapter/obj/Debug/netcoreapp2.0/Adapter.dll
+/Users/artemkopytko/University/Adapter/Adapter/obj/Debug/netcoreapp2.0/Adapter.pdb
