@@ -2,6 +2,7 @@
 using Adapter.Adapters;
 using Adapter.HomeCats;
 using Adapter.WildCats;
+using Adapter.Superheroes;
 
 namespace Adapter
 {
@@ -20,6 +21,11 @@ namespace Adapter
 			IWildCat tiger = new Tiger();
 			HomeCatAdapter adapter = new HomeCatAdapter(tiger);
 			CatInfoPrinter.PrintCatInfo(adapter);
+
+            ISuperhero elph = new Elph();
+			SuperheroAdapter superheroAdapteradapter = new SuperheroAdapter(elph);
+			Console.WriteLine("Досье для героя: {0} {1} {2}", superheroAdapteradapter.Fly(),
+			superheroAdapteradapter.Shoot(), superheroAdapteradapter.GoThrougWalls());
 
 			Console.ReadLine();
         }
