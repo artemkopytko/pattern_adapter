@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.csproj", "{DC7678FA-E57B-4D2C-A74C-241E4E321D8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC7678FA-E57B-4D2C-A74C-241E4E321D8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC7678FA-E57B-4D2C-A74C-241E4E321D8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC7678FA-E57B-4D2C-A74C-241E4E321D8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC7678FA-E57B-4D2C-A74C-241E4E321D8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
